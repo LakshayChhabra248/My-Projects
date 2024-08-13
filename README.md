@@ -3,7 +3,7 @@ Name : Lakshay Chhabra\
 Contact Details : \
   Phone Number - +91 90506 48248\
   Email ID - lakshaychhabra248@gmail.com\
-  Alternate - +91 93546 48248, rkchhabra101@gmail.com\
+  Alternate - +91 93546 48248, rkchhabra101@gmail.com
 ## Project 1 : World of Mathematics
 * **Language Used** = Python
 * **Aim** = To help the students in their basic to intermediate calculations.
