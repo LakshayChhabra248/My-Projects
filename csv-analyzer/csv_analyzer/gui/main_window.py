@@ -158,12 +158,14 @@ class MainWindow(tk.Tk):
           result = perform_analysis(self.df, main_feature, selected_features, top_n)
 
         verdict = generate_verdict(result)
+        print(verdict)
+
 
         # Clear previous results
         self.result_text.delete(1.0, tk.END)
         self._populate_treeview(result)
         # Update the verdict label
-        self.verdict_label.config(text="Verdict: " + verdict)
+        self.after(0, lambda: self.verdict_label.config(text="Verdict: " + verdict))
       except KeyError as e:
          self._show_error(f"Selected column '{e}' not found in dataframe columns")
       except Exception as e:

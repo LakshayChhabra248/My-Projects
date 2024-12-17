@@ -31,7 +31,7 @@ Perform aggregations (mean, median, sum) and retrieve the top N results.
 View the analysis results in an interactive and sortable table format.
 
 ### Clear Verdict:
-A verdict is prominently displayed based on the analysis.
+A verdict is prominently displayed in the shell based on the analysis.
 
 ## Requirements:
 
