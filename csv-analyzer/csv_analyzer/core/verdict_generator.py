@@ -3,4 +3,4 @@ def generate_verdict(result):
   if result.empty:
     return "No results to analyze."
   else:
-    return f"Based on the analysis, the top option is: {result.iloc[0][0]}"
+    return f"Based on the analysis, the top option is: {result.iloc[0].iloc[0]}"

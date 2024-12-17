@@ -81,6 +81,10 @@ class MainWindow(tk.Tk):
         tree_scroll_y = ttk.Scrollbar(self, orient="vertical", command=self.result_tree.yview)
         tree_scroll_y.pack(side=tk.RIGHT, fill=tk.Y)
         self.result_tree.configure(yscrollcommand=tree_scroll_y.set)
+
+        # Verdict Label
+        self.verdict_label = ttk.Label(self, text="Verdict: ", font=("Arial", 12, "bold"))
+        self.verdict_label.pack(pady=5)
         
         # Result Text area
         self.result_text = tk.Text(self, wrap=tk.WORD, width=80, height=10)
@@ -107,7 +111,7 @@ class MainWindow(tk.Tk):
 
     def load_csv(self):
       try:
-        file_path = filedialog.askopenfilename()
+        file_path = filedialog.askopenfilename(filetypes=[("CSV files", "*.csv")])
         if file_path:
             delimiter = self.delimiter_entry.get()
             encoding = self.encoding_entry.get()
@@ -158,7 +162,8 @@ class MainWindow(tk.Tk):
         # Clear previous results
         self.result_text.delete(1.0, tk.END)
         self._populate_treeview(result)
-        self.result_text.insert(tk.END, "\n\nVerdict:\n" + verdict)
+        # Update the verdict label
+        self.verdict_label.config(text="Verdict: " + verdict)
       except KeyError as e:
          self._show_error(f"Selected column '{e}' not found in dataframe columns")
       except Exception as e:
