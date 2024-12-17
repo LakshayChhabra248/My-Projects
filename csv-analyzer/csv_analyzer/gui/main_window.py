@@ -12,7 +12,7 @@ class MainWindow(tk.Tk):
         super().__init__()
         self.title("CSV Analyzer")
         self.df = None
-        self.processing = False # to prevent multiple analysis runs
+        self.processing = False
 
         self._setup_ui()
 
@@ -72,6 +72,10 @@ class MainWindow(tk.Tk):
         # Analyze Button
         analyze_btn = tk.Button(self, text="Analyze", command=self._analyze_thread)
         analyze_btn.pack(pady=10)
+
+         # Verdict Label (moved above the table)
+        self.verdict_label = ttk.Label(self, text="Verdict: ", font=("Arial", 12, "bold"))
+        self.verdict_label.pack(pady=5)
         
         # Result Treeview
         self.result_tree = ttk.Treeview(self, show="headings", height=10)
@@ -82,10 +86,6 @@ class MainWindow(tk.Tk):
         tree_scroll_y.pack(side=tk.RIGHT, fill=tk.Y)
         self.result_tree.configure(yscrollcommand=tree_scroll_y.set)
 
-        # Verdict Label
-        self.verdict_label = ttk.Label(self, text="Verdict: ", font=("Arial", 12, "bold"))
-        self.verdict_label.pack(pady=5)
-        
         # Result Text area
         self.result_text = tk.Text(self, wrap=tk.WORD, width=80, height=10)
         self.result_text.pack(pady=10)
@@ -158,8 +158,6 @@ class MainWindow(tk.Tk):
           result = perform_analysis(self.df, main_feature, selected_features, top_n)
 
         verdict = generate_verdict(result)
-        print(verdict)
-
 
         # Clear previous results
         self.result_text.delete(1.0, tk.END)

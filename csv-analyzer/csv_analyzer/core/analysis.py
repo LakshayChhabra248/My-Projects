@@ -14,7 +14,8 @@ def perform_aggregation(df, main_feature, selected_features, top_n, agg_type):
   try:
      if agg_type in ["mean","median","sum"]:
         agg_df = df.groupby(selected_features)[main_feature].agg(agg_type).reset_index()
-        agg_df = agg_df.sort_values(by=main_feature, ascending=False).head(top_n)
+        #Sort the aggregated data using the generated column name
+        agg_df = agg_df.sort_values(by=agg_df.columns[-1], ascending=False).head(top_n)
         return agg_df
      else:
         raise ValueError("Invalid aggregation type.")
