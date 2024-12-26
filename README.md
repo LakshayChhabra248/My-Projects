@@ -28,3 +28,7 @@ Contact Details : \
 * **Language Used** = Python
 * **Aim** = This Project contains the code for a simple Rock, Paper, Scissors Game in Python.
 * **Decription** = The program simulates a Rock, Paper, Scissors game between the user and the computer.The computer randomly chooses rock, paper, or scissors, and the user enters their choice through the console.The program then compares the choices and declares the winner (user, computer, or tie) based on the classic Rock-Paper-Scissors rules. 
+## Project 7 : Gemini AI ChatBot
+* **Language Used** = Python
+* **Aim** = This Project contains the code for an interactive UI for Using Gemini API for a chatbot.
+* **Decription** = This project implements a simple chatbot powered by the Google Gemini AI model. It features a graphical user interface (GUI) using Tkinter, providing a real-time, streamed response experience.
