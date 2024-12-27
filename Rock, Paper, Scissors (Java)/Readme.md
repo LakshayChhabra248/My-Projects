@@ -1,44 +1,72 @@
-# Rock, Paper, Scissors Game in Java 
-This document describes the Java code for a Rock, Paper, Scissors game implemented in the ```Main.java``` file.
+# ✊ Rock, Paper, Scissors Game (Java) 🪨📄✂️
 
-## Functionality
-* The program simulates a Rock, Paper, Scissors game between the user and the computer. 
-* The computer randomly chooses rock, paper, or scissors, and the user enters their choice through the console. 
-* The program then compares the choices and declares the winner (user, computer, or tie) based on the classic Rock-Paper-Scissors rules.
+## A Classic Game of Chance and Strategy 🕹️
 
-## Code Breakdown
-The code is divided into several sections:
+This document describes the Java code for a classic Rock, Paper, Scissors game implemented in the `Main.java` file. The game simulates a match between you and the computer, where you both choose either rock, paper, or scissors, and the winner is determined based on the game's classic rules.
 
-1.  Computer Choice:
+**Functionality:**
 
-    * Creates a string compOption containing "rps" (representing rock, paper, scissors).
-    * Uses Random to generate an index within the length of compOption.
-    * Extracts the character at the generated index using charAt().
-    * Uses a switch statement to convert the character to a human-readable choice string (rock, paper, or scissors) and stores it in compChoose.
-2. User Input:
+*   🤝 **User vs. Computer:** Play a round of Rock, Paper, Scissors against the computer.
+*   🎲 **Random Computer Choice:** The computer randomly selects its move (rock, paper, or scissors).
+*   ⌨️ **User Input:** You enter your move through the console by typing 'r' for rock, 'p' for paper, or 's' for scissors.
+*   🏆 **Winner Declaration:** The program compares your choice against the computer's, and declares the winner or a tie.
+*   💯 **Classic Game Logic:** Follows the standard Rock, Paper, Scissors game rules.
 
-    * Creates a Scanner object to read user input.
-    * Prompts the user to enter "r" for rock, "p" for paper, or "s" for scissors.
-    * Reads user input using next().
-    * Converts the input to lowercase to handle case-insensitive input.
-    * Checks if the input length is greater than 1 (indicating invalid input) and prints an error message if true.
-    * Otherwise, extracts the first character of the input and uses a switch statement to convert it to a human-readable choice string (rock, paper, or scissors) and stores it in youChoose.
-3. Displaying Choices:
+## ⚙️ Code Breakdown:
 
-    * Prints both the user's and computer's choices using formatted strings (printf).
-4. Determining the Winner:
+1.  **Computer Choice:**
 
-    * Uses an if statement to check for a tie (both choices are the same character).
-    * Otherwise, uses an else-if statement with nested conditions to determine the winner based on the classic Rock-Paper-Scissors rules.
-    * Prints a message declaring the winner \
-    ```("The Game is tie", "You Win the game", or "You Lose the Game")```
-5. Closing Scanner:
+    *   A string `compOption` containing "rps" is created, representing rock, paper, and scissors.
+    *   A `Random` object is used to generate a random index within the bounds of `compOption`.
+    *   The character at the generated index is extracted using `charAt()`.
+    *   A `switch` statement then converts the character to a human-readable choice (`rock`, `paper`, or `scissors`) which is stored in `compChoose`.
 
-    * Closes the Scanner object to release resources.
-    * Running the Code
-    * Save the code as ```Main.java```.
-    * Compile the code using a Java compiler 
-    * Run the compiled class using Java runtime 
-    * Follow the prompts to enter your choice (r, p, or s).
-    * The program will announce the winner (you, computer, or tie).
-* This code provides a basic example of a Rock, Paper, Scissors game in Java. You can extend it further by adding features like multiple rounds, scorekeeping, or a graphical interface.
+2.  **User Input:**
+
+    *   A `Scanner` object reads user input from the console.
+    *   The user is prompted to enter 'r' for rock, 'p' for paper, or 's' for scissors.
+    *   The program reads user input using `next()`.
+    *   The input is converted to lowercase, ensuring that the program is case-insensitive.
+    *   The program checks for invalid input (length greater than 1) and prints an error message if necessary.
+    *   The first character of the user input is extracted, and a `switch` statement is used to store it as a human-readable choice (`rock`, `paper`, or `scissors`) in `youChoose`.
+
+3.  **Displaying Choices:**
+
+    *   The user's and computer's choices are displayed using `printf()` for formatted output.
+
+4.  **Determining the Winner:**
+
+    *   An `if` statement checks if both choices are the same, resulting in a tie.
+    *   An `else if` statement with nested conditions checks for all other cases to determine the winner based on the rules of Rock-Paper-Scissors.
+    *   The program then announces the results - "The Game is tie", "You Win the game", or "You Lose the Game".
+
+5.  **Closing Scanner:**
+
+    *   The `Scanner` object is closed to release resources.
+
+## 🚀 Running the Code:
+
+1.  **Save:** Save the Java code as `Main.java`.
+2.  **Compile:** Compile the code using a Java compiler:
+    ```bash
+    javac Main.java
+    ```
+3.  **Run:** Run the compiled class using Java runtime:
+    ```bash
+    java Main
+    ```
+4.  **Play:** Follow the prompts to enter your choice (r, p, or s), and see the result.
+
+## ➕ Future Improvements:
+
+This code provides a basic Rock, Paper, Scissors game. Here are some ideas to extend it further:
+
+*   **Multiple Rounds:** Add support for playing multiple rounds.
+*   **Scorekeeping:** Keep track of the score and display the results at the end of multiple rounds.
+*   **Graphical Interface:** Create a graphical user interface for a more interactive gaming experience.
+
+**Contribute:**
+
+Feel free to contribute to this project! You can modify the code to make it better, suggest new features or report issues, all using the proper pull request procedure.
+
+**Created By:** Lakshay Chhabra
