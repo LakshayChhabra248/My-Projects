@@ -61,7 +61,7 @@
 **8. Sonic Bridge 🔈**
 
 *   **Description:** An Android app to sync audio in real-time across multiple devices using Wi-Fi Direct, NSD, Bluetooth, NTP, and PTP.
-*   **Languages:** Kotlin
+*   **Languages:** Kotlin, C/C++
 *   **Status:** Under Development
 
 **9. TapID 💳**
@@ -75,6 +75,6 @@
 **Get in touch!**
 
 *   **Email:** lakshaychhabra248@gmail.com
-*   **LinkedIn:** [Link to LinkedIn Profile](linkedin.com/in/lakshay-chhabra-941b08235/)
+*   **LinkedIn:** [Link to LinkedIn profile](https://www.linkedin.com/in/lakshay-chhabra-941b08235/)
 
 **Let's connect and explore the world of coding together!**
