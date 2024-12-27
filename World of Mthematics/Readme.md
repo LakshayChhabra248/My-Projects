@@ -31,4 +31,8 @@ This Python program is a versatile math calculator designed to handle a wide ran
 4.  **Input Values:** Enter the required values when prompted, and you'll receive the calculated results.
 
 
+**Contribute:**
 
+Your contributions are welcome! If you have ideas for new features, improvements, or bug fixes, please feel free to submit a pull request.
+
+**Created By:** Lakshay Chhabra
