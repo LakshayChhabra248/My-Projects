@@ -28,3 +28,8 @@ This JavaScript script is a handy tool that simplifies file organization by auto
 
 4.  **Observe the Results:** Once the script executes, you'll see new subfolders created within your specified directory, each containing the files of the corresponding extension.
 
+**Contribute:**
+
+Your contributions are welcome! If you have ideas for new features, improvements, or bug fixes, please feel free to submit a pull request.
+
+**Created By:** Lakshay Chhabra
