@@ -15,6 +15,9 @@ Unleash your inner word wizard with this interactive Hangman game, enhanced with
 
 -   **🔄 Play Again and Again:** Replay button to keep the game going on forever.
 
+-    **⚙️ Difficulty Selection:** Choose the number of characters you wish to guess (4 to 7 or any). Change the difficulty of the game anytime using the change mode button.
+
+
 ## 🛠️ How to Set Up Your Word-Guessing Workshop! 🛠️
 
 Before jumping into the fun, ensure you have these:
