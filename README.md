@@ -57,7 +57,8 @@ Here's a snapshot of my coding journey. Each project reflects a unique blend of 
 ### 8. Hangman Game 🎯
 -   **Language:** Python
 -   **Goal:** Test your word guessing skills.
--   **Description:** A graphical hangman game with meaning hints powered by Gemini, alphabet hints, keyboard inputs and a responsive UI.
+-   **Description:** A graphical hangman game with meaning hints powered by Gemini, alphabet hints, keyboard inputs, a responsive UI and difficulty selection
+
 
 <br>
 <details>
