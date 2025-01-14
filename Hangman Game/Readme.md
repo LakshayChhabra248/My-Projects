@@ -33,7 +33,7 @@ Before jumping into the fun, ensure you have these:
 
 ## 🚀 Let's Start the Game! 🚀
 
-1.  Save the `hangman_gui.py` file.
+1.  Save the `hangman_AI.py` file.
 2.  Replace `'YOUR_API_KEY'` in the `hangman_AI.py` with your actual Gemini API key.
 3.  Unleash the power of Python!
 
