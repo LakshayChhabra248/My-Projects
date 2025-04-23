@@ -1,0 +1,16 @@
+# ScoreSight/requirements.txt
+
+# Data Handling
+pandas
+numpy
+openpyxl  # For reading .xlsx files with pandas
+
+# GUI
+customtkinter
+
+# Plotting
+matplotlib
+seaborn
+
+# PDF Report Generation
+reportlab
