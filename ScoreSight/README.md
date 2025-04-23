@@ -41,7 +41,6 @@ ScoreSight is a desktop application built with Python and CustomTkinter designed
 
 ## 📸 Screenshots
 
-*(Replace these placeholders with actual screenshots of your application! A GIF showing the workflow is also great.)*
 
 **Main Window (Light Theme):**
 ![ScoreSight Main Window Light](<assets/screenshot_main_light.png>)
