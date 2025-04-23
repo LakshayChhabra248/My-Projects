@@ -105,7 +105,7 @@ Follow these steps to set up and run ScoreSight on your local machine:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/LakshayChhabra248/My-Projects/ScoreSight
+    git clone https://github.com/LakshayChhabra248/My-Projects/blob/main/ScoreSight
     cd ScoreSight
     ```
 
@@ -209,6 +209,6 @@ Name - Lakshay Chhabra
 
 Email: <lakshaychhabra248@gmail.com>
 
-Project Link: <https://github.com/LakshChhabra248/My-Projects/ScoreSight>
+Project Link: <https://github.com/LakshChhabra248/My-Projects/blob/main/ScoreSight>
 
 ---
