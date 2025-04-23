@@ -209,6 +209,6 @@ Name - Lakshay Chhabra
 
 Email: <lakshaychhabra248@gmail.com>
 
-Project Link: <https://github.com/LakshChhabra248/My-Projects/tree/main/ScoreSight>
+Project Link: <[Github](https://github.com/LakshayChhabra248/My-Projects/tree/main/ScoreSight)>
 
 ---
