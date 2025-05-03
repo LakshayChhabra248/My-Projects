@@ -59,17 +59,21 @@ Here's a snapshot of my coding journey. Each project reflects a unique blend of 
 -   **Goal:** Test your word guessing skills.
 -   **Description:** A graphical hangman game with meaning hints powered by Gemini, alphabet hints, keyboard inputs, a responsive UI and difficulty selection
 
+### 9. ScoreSight 📊✨
+-   **Language:** Python
+-   **Goal:** Analyze student results, visualize performance, and generate reports.
+-   **Description:** A desktop application using CustomTkinter to load student marks (CSV/Excel), calculate toppers & statistics (incl. failures), visualize distributions/averages, and create downloadable PDF summaries.
 
 <br>
 <details>
 <summary><b> 🚀 Upcoming Projects (Under Development) 🚧 </b></summary>
 
-### 9. Sonic Bridge 🔈
+### 10. Sonic Bridge 🔈
 -   **Description:** An Android app designed to synchronize audio across multiple devices in real-time using advanced technologies.
 -   **Languages:** Kotlin, C/C++
 -   **Status:** Under Development
 
-### 10. TapID 💳
+### 11. TapID 💳
 -  **Description:** A modern system for schools using NFC cards for student IDs, payments, attendance, geofencing, and emergency location tracking. It includes Android app, website, and server-side components.
 -  **Languages:** Kotlin, Javascript, Java
 -  **Status:** Under Development
