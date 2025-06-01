@@ -3,7 +3,7 @@
 **Welcome! Let's dive into the world of my exciting projects!**
 
 <p align="center">
-  <img src="https://placehold.co/200x200/473C8B/fff?text=LC" alt="Lakshay Chhabra Logo" width="150">
+  <img src="https://placehold.co/600x400/FF0000/fff?text=Lakshay%20Chhabra" alt="Lakshay Chhabra Logo" width="150">
 </p>
 
 ## About Me
