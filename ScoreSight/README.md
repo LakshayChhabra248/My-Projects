@@ -41,7 +41,6 @@ ScoreSight is a desktop application built with Python and CustomTkinter designed
 
 ## 📸 Screenshots
 
-*(Replace these placeholders with actual screenshots of your application! A GIF showing the workflow is also great.)*
 
 **Main Window (Light Theme):**
 ![ScoreSight Main Window Light](<assets/screenshot_main_light.png>)
@@ -106,7 +105,7 @@ Follow these steps to set up and run ScoreSight on your local machine:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/LakshayChhabra248/My-Projects/ScoreSight
+    git clone https://github.com/LakshayChhabra248/My-Projects/tree/main/ScoreSight
     cd ScoreSight
     ```
 
@@ -197,11 +196,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙌 Acknowledgements (Optional)
+## 🙌 Acknowledgements 
 
-*   Mention your teacher if appropriate.
-*   Any libraries or resources you found particularly helpful.
-
+*   Dr. Richa Chaudhary
+*   Team Coding Crusaders
+    - Yuvneet Sapra
+    - Aditya Kumar Gupta
 ---
 
 ## 📞 Contact 
@@ -210,6 +210,6 @@ Name - Lakshay Chhabra
 
 Email: <lakshaychhabra248@gmail.com>
 
-Project Link: <https://github.com/LakshChhabra248/My-Projects/ScoreSight>
+Project Link: <[Github](https://github.com/LakshayChhabra248/My-Projects/tree/main/ScoreSight)>
 
 ---
