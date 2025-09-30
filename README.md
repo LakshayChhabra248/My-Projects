@@ -1,90 +1,55 @@
-# 🚀 Lakshay Chhabra's Coding Adventures 🚀
+# Hi there, I'm Lakshay Chhabra 👋
 
-**Welcome! Let's dive into the world of my exciting projects!**
+A passionate and versatile developer dedicated to crafting innovative and practical solutions. I enjoy bringing ideas to life through code and am always eager to learn new technologies.
 
-<p align="center">
-  <img src="https://placehold.co/600x400/FF0000/fff?text=Lakshay%20Chhabra" alt="Lakshay Chhabra Logo" width="500">
+<p align="left">
+  <a href="https://www.linkedin.com/in/lakshay-chhabra-941b08235/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lakshaychhabra248@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-## About Me
+---
 
-Hello there! I'm Lakshay Chhabra, a passionate and versatile developer. I love creating solutions that blend innovation with practicality.
+### 💻 My Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
 
-- **Name:** Lakshay Chhabra
-- **Contact:**
-    - **Phone:** +91 90506 48248 | +91 93546 48248
-    - **Email:** [lakshaychhabra248@gmail.com](mailto:lakshaychhabra248@gmail.com) | [rkchhabra101@gmail.com](mailto:rkchhabra101@gmail.com)
+---
 
-## 🌟 Featured Projects 🌟
+## 🚀 Featured Projects
 
-Here's a snapshot of my coding journey. Each project reflects a unique blend of creativity, problem-solving, and technical skill:
+Here’s a selection of projects I've worked on.
 
-### 1. World of Mathematics 🧮
--   **Language:** Python
--   **Goal:** Empower students to grasp math concepts with interactive tools.
--   **Description:** A collection of Python programs to solve problems related to algebra, HCF/LCM, prime number generation, and more!
+| Project | Description & Key Features | Technologies |
+|---|---|---|
+| **📊 ScoreSight** | A desktop application to analyze student results, visualize performance, and generate insightful reports.<br><br>• Load student marks from CSV/Excel.<br>• Calculate toppers & failure statistics.<br>• Visualize data with charts.<br>• Generate downloadable PDF summaries. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <img src="https://img.shields.io/badge/CustomTkinter-5A92E6?style=for-the-badge" /> |
+| **💬 Gemini AI ChatBot** | An interactive, real-time chat experience powered by the Gemini AI model to explore conversational AI.<br><br>• Real-time conversational flow.<br>• Understands and responds to user queries.<br>• Easily integrable and scalable. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white) |
+| **🎯 Hangman Game** | A graphical hangman game with a modern UI and AI-powered hints to test your word-guessing skills.<br><br>• Meaning hints powered by Gemini.<br>• Alphabet hints & keyboard inputs.<br>• Responsive UI & difficulty selection. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **🗂️ Clear the Clutter** | A smart file organizer that automatically reads file extensions and sorts them into respective folders.<br><br>• Scans directories for unorganized files.<br>• Sorts based on file type (e.g., .pdf, .jpg).<br>• Customizable sorting rules. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| **🎮 Classic Games** | A collection of classic games built in Java and Python to challenge your skills.<br><br>• **Guess The Number** (Java)<br>• **Rock, Paper, Scissors** (Java & Python) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 
-### 2. Clear the Clutter 🗂️
--   **Languages:** Python, Javascript
--   **Goal:**  Declutter and organize files automatically.
--   **Description:** A smart file organizer that reads file extensions and sorts them into respective folders.
+---
 
-### 3. CSV Analyzer 📊
--  **Language:** Python
--   **Goal:**  Uncover hidden insights from CSV data.
--  **Description:** Allows users to load and explore CSV files, select specific features, and conduct basic data analysis.
+## 🚧 Under Development
 
-### 4. Guess The Number Game 🧠
--   **Language:** Java
--   **Goal:** Test your guessing skills!
--   **Description:** A classic number guessing game where you compete with the computer to find a randomly generated number.
+Here's a sneak peek at what's next.
 
-### 5. Rock, Paper, Scissors Game (Java) ✊
--   **Language:** Java
--   **Goal:** Enjoy a classic game of chance against the computer.
--   **Description:** Simulates the Rock, Paper, Scissors game, challenging you against an AI opponent.
+| Project | Description | Technologies |
+|---|---|---|
+| **🔈 SyncTune** | An Android app to synchronize audio playback across multiple devices in real-time.<br><br>• Aims for low-latency audio sharing.<br>• Perfect for creating a surround sound experience. | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **💳 Neo-Card** | A modern NFC-based system for schools to manage student IDs, payments, attendance, and safety.<br><br>• Includes Android app, website & server.<br>• Features geofencing & emergency tracking. | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
 
-### 6. Rock, Paper, Scissors Game (Python) ✊
--  **Language:** Python
--  **Goal:** Enjoy a classic game of chance against the computer.
--  **Description:** A version of the Rock, Paper, Scissors game made with Python.
+---
 
-### 7. Gemini AI ChatBot 💬
--   **Language:** Python
--   **Goal:**  Explore conversational AI using the Gemini API.
--   **Description:** Create a real-time, interactive chat experience using the Gemini AI model to understand and converse with users.
-
-### 8. Hangman Game 🎯
--   **Language:** Python
--   **Goal:** Test your word guessing skills.
--   **Description:** A graphical hangman game with meaning hints powered by Gemini, alphabet hints, keyboard inputs, a responsive UI and difficulty selection
-
-### 9. ScoreSight 📊✨
--   **Language:** Python
--   **Goal:** Analyze student results, visualize performance, and generate reports.
--   **Description:** A desktop application using CustomTkinter to load student marks (CSV/Excel), calculate toppers & statistics (incl. failures), visualize distributions/averages, and create downloadable PDF summaries.
-
-<br>
-<details>
-<summary><b> 🚀 Upcoming Projects (Under Development) 🚧 </b></summary>
-
-### 10. Sonic Bridge 🔈
--   **Description:** An Android app designed to synchronize audio across multiple devices in real-time using advanced technologies.
--   **Languages:** Kotlin, C/C++
--   **Status:** Under Development
-
-### 11. TapID 💳
--  **Description:** A modern system for schools using NFC cards for student IDs, payments, attendance, geofencing, and emergency location tracking. It includes Android app, website, and server-side components.
--  **Languages:** Kotlin, Javascript, Java
--  **Status:** Under Development
-</details>
-<br>
-
-## 🌐 Let's Connect! 🌐
+## 🌐 Let's Connect!
 
 I'm always open to new opportunities and collaborations. Feel free to get in touch!
 
--   **Email:** [lakshaychhabra248@gmail.com](mailto:lakshaychhabra248@gmail.com)
--   **LinkedIn:** [Lakshay Chhabra](https://www.linkedin.com/in/lakshay-chhabra-941b08235/)
-
-**Let's explore the world of coding together!**
+**Email:** [lakshaychhabra248@gmail.com](mailto:lakshaychhabra248@gmail.com) | **LinkedIn:** [Lakshay Chhabra](https://www.linkedin.com/in/lakshay-chhabra-941b08235/)
