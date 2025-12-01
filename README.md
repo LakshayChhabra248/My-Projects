@@ -1,55 +1,244 @@
-# Hi there, I'm Lakshay Chhabra 👋
+<div align="center">
 
-A passionate and versatile developer dedicated to crafting innovative and practical solutions. I enjoy bringing ideas to life through code and am always eager to learn new technologies.
+# Hi there, I'm Lakshay Chhabra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/lakshay-chhabra-941b08235/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:lakshaychhabra248@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### 🚀 Passionate Developer | 💡 Problem Solver | 🎯 Innovation Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+innovative+solutions;Crafting+elegant+code;Always+learning+new+tech;Turning+ideas+into+reality" alt="Typing SVG" />
+
+</div>
 
 ---
 
-### 💻 My Tech Stack
+<div align="center">
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshay-chhabra-941b08235/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshaychhabra248@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/lakshaychhabra)
+
+![Profile Views](https://komarev.com/ghpvc/?username=lakshaychhabra&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 Tech Arsenal
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,kotlin,cpp,selenium,streamlit,git,github,vscode&theme=dark" />
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
 
-Here’s a selection of projects I've worked on.
+## 🏆 Featured Projects
 
-| Project | Description & Key Features | Technologies |
-|---|---|---|
-| **📊 ScoreSight** | A desktop application to analyze student results, visualize performance, and generate insightful reports.<br><br>• Load student marks from CSV/Excel.<br>• Calculate toppers & failure statistics.<br>• Visualize data with charts.<br>• Generate downloadable PDF summaries. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <img src="https://img.shields.io/badge/CustomTkinter-5A92E6?style=for-the-badge" /> |
-| **💬 Gemini AI ChatBot** | An interactive, real-time chat experience powered by the Gemini AI model to explore conversational AI.<br><br>• Real-time conversational flow.<br>• Understands and responds to user queries.<br>• Easily integrable and scalable. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white) |
-| **🎯 Hangman Game** | A graphical hangman game with a modern UI and AI-powered hints to test your word-guessing skills.<br><br>• Meaning hints powered by Gemini.<br>• Alphabet hints & keyboard inputs.<br>• Responsive UI & difficulty selection. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| **🗂️ Clear the Clutter** | A smart file organizer that automatically reads file extensions and sorts them into respective folders.<br><br>• Scans directories for unorganized files.<br>• Sorts based on file type (e.g., .pdf, .jpg).<br>• Customizable sorting rules. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| **🎮 Classic Games** | A collection of classic games built in Java and Python to challenge your skills.<br><br>• **Guess The Number** (Java)<br>• **Rock, Paper, Scissors** (Java & Python) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+*Click on any project to explore more!*
+
+</div>
+
+<details open>
+<summary><h3>📊 ScoreSight - Student Performance Analytics</h3></summary>
+
+> A powerful desktop application that transforms student data into actionable insights with beautiful visualizations.
+
+**✨ Key Features:**
+- 📁 **Smart Data Loading** - CSV/Excel file support
+- 🎯 **Advanced Analytics** - Automatic topper identification & failure statistics
+- 📈 **Rich Visualizations** - Interactive charts and graphs
+- 📄 **PDF Reports** - Professional downloadable summaries
+
+**🛠️ Built With:**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-5A92E6?style=for-the-badge)
+
+</details>
+
+<details>
+<summary><h3>💬 Gemini AI ChatBot - Conversational AI</h3></summary>
+
+> Experience the power of AI with real-time intelligent conversations powered by Google's Gemini model.
+
+**✨ Key Features:**
+- 🤖 **Real-time AI Responses** - Lightning-fast conversational flow
+- 🧠 **Context Awareness** - Understands and remembers conversation context
+- 🔌 **Easy Integration** - Scalable and modular architecture
+- 🎨 **Modern UI** - Clean and intuitive interface
+
+**🛠️ Built With:**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
+
+</details>
+
+<details>
+<summary><h3>🎯 Hangman Game - AI-Powered Word Challenge</h3></summary>
+
+> Classic hangman reimagined with AI assistance and a stunning modern interface.
+
+**✨ Key Features:**
+- 🤖 **AI Hints** - Gemini-powered meaning hints
+- ⌨️ **Multiple Input Methods** - Alphabet buttons & keyboard support
+- 🎨 **Beautiful UI** - Responsive and engaging design
+- 🎚️ **Difficulty Levels** - Choose your challenge
+
+**🛠️ Built With:**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+</details>
+
+<details>
+<summary><h3>🗂️ Clear the Clutter - Smart File Organizer</h3></summary>
+
+> Say goodbye to messy directories! Automatically organize files by type with intelligent sorting.
+
+**✨ Key Features:**
+- 🔍 **Auto-Detection** - Scans and identifies file types
+- 📂 **Smart Sorting** - Organizes files into categorized folders
+- ⚙️ **Customizable Rules** - Define your own sorting patterns
+- ⚡ **Fast & Efficient** - Handles large directories with ease
+
+**🛠️ Built With:**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+</details>
+
+<details>
+<summary><h3>🐦 PyPigeon - WhatsApp Automation Suite</h3></summary>
+
+> Automate your WhatsApp messaging workflow with intelligent bulk messaging for business communications.
+
+**✨ Key Features:**
+- 📊 **Excel Integration** - Upload and process data from spreadsheets
+- 🤖 **Smart Automation** - Selenium-powered browser automation
+- ⏱️ **Anti-Spam Protection** - Randomized delays between messages
+- 📝 **Template System** - Customizable message formats
+- 🎲 **Sample Generator** - Built-in test data creator
+
+**🛠️ Built With:**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+</details>
+
+<details>
+<summary><h3>🎮 Classic Games Collection</h3></summary>
+
+> Nostalgic games with modern implementations - perfect for learning and fun!
+
+**🎯 Games Included:**
+- 🔢 **Guess The Number** (Java) - Test your intuition
+- ✊✋✌️ **Rock, Paper, Scissors** (Java & Python) - Classic strategy game
+
+**🛠️ Built With:**
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+</details>
 
 ---
+
+<div align="center">
 
 ## 🚧 Under Development
 
-Here's a sneak peek at what's next.
+*Exciting projects in the pipeline!*
 
-| Project | Description | Technologies |
-|---|---|---|
-| **🔈 SyncTune** | An Android app to synchronize audio playback across multiple devices in real-time.<br><br>• Aims for low-latency audio sharing.<br>• Perfect for creating a surround sound experience. | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **💳 Neo-Card** | A modern NFC-based system for schools to manage student IDs, payments, attendance, and safety.<br><br>• Includes Android app, website & server.<br>• Features geofencing & emergency tracking. | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔈 SyncTune
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
+
+**Vision:** Synchronize audio playback across multiple Android devices in real-time.
+
+**🎯 Goals:**
+- ⚡ Ultra-low latency audio sharing
+- 🔊 Multi-device surround sound experience
+- 📱 Seamless device pairing
+- 🎵 Perfect audio synchronization
+
+**🛠️ Tech Stack:**
+
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 💳 Neo-Card
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
+
+**Vision:** Revolutionary NFC-based system for modern school management.
+
+**🎯 Features:**
+- 🎫 Digital student ID cards
+- 💰 Cashless payment system
+- 📍 Geofencing & location tracking
+- 🚨 Emergency alert system
+- 📊 Comprehensive analytics dashboard
+
+**🛠️ Tech Stack:**
+
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Let's Connect!
+<div align="center">
 
-I'm always open to new opportunities and collaborations. Feel free to get in touch!
+## 💬 Let's Connect!
 
-**Email:** [lakshaychhabra248@gmail.com](mailto:lakshaychhabra248@gmail.com) | **LinkedIn:** [Lakshay Chhabra](https://www.linkedin.com/in/lakshay-chhabra-941b08235/)
+*I'm always open to new opportunities, collaborations, and interesting conversations!*
+
+**📧 Email:** [lakshaychhabra248@gmail.com](mailto:lakshaychhabra248@gmail.com)
+
+**💼 LinkedIn:** [Lakshay Chhabra](https://www.linkedin.com/in/lakshay-chhabra-941b08235/)
+
+**🐙 GitHub:** [Follow for more projects](https://github.com/lakshaychhabra)
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshaychhabra&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaychhabra&layout=compact&theme=radical&hide_border=true)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=lakshaychhabra&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+**⭐ If you like my work, consider giving my repos a star!**
+
+*Made with ❤️ by Lakshay Chhabra*
+
+</div>
