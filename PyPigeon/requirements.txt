@@ -1,0 +1,6 @@
+streamlit
+pandas
+selenium
+openpyxl
+webdriver-manager
+faker
