@@ -141,6 +141,65 @@
 </details>
 
 <details>
+<summary><h3>📊 CSV Analyzer - Data Exploration Tool</h3></summary>
+
+> Powerful CSV analysis tool with an intuitive GUI for exploring data trends and generating insights.
+
+**✨ Key Features:**
+- 📁 **Easy CSV Loading** - Custom delimiter and encoding support
+- 🎯 **Multi-Feature Analysis** - Compare multiple features simultaneously
+- 📈 **Statistical Aggregations** - Mean, median, sum calculations
+- 🗂️ **Interactive Table View** - Sortable results display
+- ✅ **Smart Verdicts** - Automatic insight generation
+
+**🛠️ Built With:**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+</details>
+
+<details>
+<summary><h3>🧮 World of Mathematics - All-in-One Calculator</h3></summary>
+
+> Comprehensive mathematical toolkit for students, educators, and professionals.
+
+**✨ Key Features:**
+- ➕ **Basic Arithmetic** - Addition, subtraction, multiplication, division
+- 📐 **Geometry Tools** - Area and volume calculations for 2D/3D shapes
+- 📊 **Statistical Analysis** - Mean, median, mode, and more
+- 🔢 **Advanced Functions** - Quadratic equations, HCF, LCM, prime numbers
+- 🎓 **Academic Tools** - GPA calculator and class result management
+- 🔄 **Unit Conversions** - Length, mass, volume, and data conversions
+- 📈 **Trigonometry** - Sin, cos, tan and inverse functions
+
+**🛠️ Built With:**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+</details>
+
+<details>
+<summary><h3>🎵 Intelligent Playlist Sorter - AI Music Organizer</h3></summary>
+
+> ML-powered playlist organizer that creates coherent listening experiences based on user habits.
+
+**✨ Key Features:**
+- 🤖 **Smart Sorting** - ML-based preference score calculation
+- 📊 **Play Pattern Analysis** - Analyzes duration vs. song length ratios
+- 🎧 **Mood Continuity** - Avoids jarring genre transitions
+- 📈 **Data-Driven** - Uses listening history for personalization
+- 🔬 **POC Implementation** - Simulated dataset for testing
+
+**🛠️ Built With:**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</details>
+
+<details>
 <summary><h3>🎮 Classic Games Collection</h3></summary>
 
 > Nostalgic games with modern implementations - perfect for learning and fun!
